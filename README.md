@@ -1,4 +1,4 @@
-# TLM-Parishes
+# Traditional Latin Mass Parishes
 Divi Child Theme for Traditional Latin Mass Parishes
 <hr>
 ### This is the public repository for the Divi Child themes that are used to build the individual parish websites as a part of the Tridentine TLM website network.  This WordPress Multisite network is hosted and maintained at no charge to the individual parish.  The Catholic parish need only to host a Tridentine Mass, and maintain a Tradtional Latin Mass community.
